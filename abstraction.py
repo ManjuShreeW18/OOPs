@@ -17,5 +17,3 @@ class rectangle(shape):
 r1=rectangle(6,5)
 
 print(r1.area())
-
-        
